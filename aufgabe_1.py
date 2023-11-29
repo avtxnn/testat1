@@ -1,14 +1,12 @@
 # Aufgabe 1
 
 
-def add_numbers(a:float, b:float):
-    # Code here
-    pass
+def add_numbers(a:float, b:float) -> float:
+    return a + b
 
 
-def rectangle_calculate_area(length:float, width:float):
-    # Code here
-    pass
+def rectangle_calculate_area(length:float, width:float) -> float:
+    return length * width
 
 
 def main():
