@@ -2,7 +2,7 @@
 
 
 def add_numbers(a:float, b:float) -> float:
-    return a + b
+    return a + c
 
 
 def rectangle_calculate_area(length:float, width:float) -> float:
